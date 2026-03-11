@@ -1,5 +1,6 @@
-# Pragyan_ai_hackathon
+<img width="1366" height="720" alt="Screenshot 2026-03-11 163333" src="https://github.com/user-attachments/assets/8e8d89be-a83c-4cb2-9877-3e9fcc36e995" /><img width="1366" height="720" alt="Screenshot 2026-03-11 163341" src="https://github.com/user-attachments/assets/24f71aac-c699-48e4-a47a-e74b84cee334" /># Pragyan_ai_hackathon
 # Smart Air Quality Intelligence Platform
+
 
 ## AI-Powered Pollution Analytics for Smart Cities
 
@@ -281,3 +282,12 @@ Developed as part of a **Data Science & AI Project** focused on building intelli
 #  If you like this project
 
 Please consider **starring the repository** to support the work!
+
+<img width="1366" height="720" alt="Screenshot 2026-03-11 163312" src="https://github.com/user-attachments/assets/5b1d7942-4a37-4caa-b86e-feb4321ae6a<img width="1366" height="720" alt="Screenshot 2026-03-11 160345" src="https://github.com/user-attachments/assets/83911bcb-fbc3-4068-968e-98421b74ad52" />
+6" />
+<img width="1366" height="720" alt="Screenshot 2026-03-11 163323" src="https://github.com/user-attachments/assets/2a1e5f2e-242c-40f6-a801-26adc7bd2a6a" />![Upl<img width="1366" height="720" alt="Screenshot 2026-03-11 163231" src="https://github.com/user-attachments/assets/04bce51c-8d85-42b4-a4a4-0bfdbf532d57" />
+oading Screenshot 2026-03-11 163333.png…]()![Uploading Screenshot 2<img width="1366" height="720" alt="Screenshot 2026-03-11 163357" src="https://github.com/user-attachments/assets/95d4f987-9daa-40e9-a65e-53b368dbf2d2" />
+026-03-11 163341.png…]()<img width="1366" height="720" alt="Screenshot 2026-03-11 163416" src="https://github.com/user-attachments/assets/2b455c63-c9ed-4276-8483-aed4d1cdb732" />
+
+
+
